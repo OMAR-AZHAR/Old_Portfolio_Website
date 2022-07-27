@@ -1,0 +1,16 @@
+.progress-some {
+  background: orange;
+  height: 20px;
+  width: 200px;
+}
+.progress-new {
+  background: black;
+  height: 20px;
+  width: 20px;
+}
+.language {
+  font-family: "Cambria";
+  font-size: 1.5rem;
+  color: #1c1c1c;
+  text-transform: capitalize;
+}
